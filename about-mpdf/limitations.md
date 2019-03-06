@@ -17,7 +17,7 @@ which apply to block elements are ignored (e.g. borders, padding, margins etc).
 ## Block and in-line elements
 
 All HTML elements are hard-coded to be treated as block or in-line elements (e.g. equivalent to CSS `display:block` 
-or `display:in-line`). This cannot be changed using CSS. See 
+or `display:inline`). This cannot be changed using CSS. See 
 <a href="{{ "/html-support/html-tags.html" | prepend: site.baseurl }}">HTML tags</a>.
 
 ## Special features
